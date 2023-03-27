@@ -15,7 +15,7 @@ Time to put your Python skills to the test. By completing these projects, you wi
 
 - [Arithmetic Formatter | **Passed**](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter) 
   - [Solution @ replIt](https://replit.com/@gasingh/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
-  - [Solution @ github]()
+  - [Solution @ github](https://github.com/gasingh/pythonScientificComputing_freeCodeCamp/blob/main/01_arithmetic_arranger__CODE.py)
 - [Time Calculator | Pending](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 - [Budget App | Pending](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 - [Polygon Area Calculator | Pending](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
